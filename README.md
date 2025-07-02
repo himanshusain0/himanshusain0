@@ -41,8 +41,7 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [🔥 DSA Java Tracker](https://github.com/himanshusain0/DSA_JAVA_TRACKER) | Java | Day-wise tracker for mastering DSA in Java |
-| 💬 Chat App (Coming Soon) | Java, Socket Programming | Real-time messaging app with console UI |
-| 🍕 Food Delivery App (Coming Soon) | React.js, Firebase | Basic frontend for food ordering UI |
+| 🍕 Food Delivery App (Coming Soon) | React.js, SpringBoot , Bootstrap ,AWS(s3) ,MongoDb ,Razorpay| Basic frontend for food ordering UI |
 
 ---
 
