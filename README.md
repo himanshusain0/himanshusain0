@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">B.Tech CSE | Java DSA Enthusiast | React.js Developer | Frontend Learner</h3>
+<h3 align="center">B.Tech CSE | Java DSA Enthusiast | Java Developer | Frontend Learner | Backend Learner</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-sain09090" target="_blank">
