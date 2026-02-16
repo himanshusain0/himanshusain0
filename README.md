@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final year B.Tech (Computer Science) student from **RD Engineering College, Ghaziabad**
+- 🎓  B.Tech Graduate (Computer Science) from RD Engineering College, Ghaziabad
 - 💻 Practicing **Data Structures and Algorithms in Java**
 - ⚛️ Learning **Frontend Web Development**: React.js, HTML, CSS, JS
 - 🔍 Looking for **Java Backend / Frontend Development Internship**
