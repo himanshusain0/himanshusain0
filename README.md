@@ -59,7 +59,7 @@
 - 📩 Email: **ht0257445@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/himanshu-sain09090](https://linkedin.com/in/himanshu-sain09090)
 - 🔗 GitHub: [github.com/himanshusain0](https://github.com/himanshusain0)
-
+- 🧠 LeetCode: [leetcode.com/u/Himanshu_kumar1](https://leetcode.com/u/Himanshu_kumar1)
 ---
 
 _“Consistency + Code = Confidence 💪”_
