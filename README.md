@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">B.Tech CSE | Java DSA Enthusiast | Java Developer | Frontend Learner | Backend Learner</h3>
+<h3 align="center"> Java DSA Enthusiast | Java Developer | Frontend Learner | Backend Learner</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-sain09090" target="_blank">
@@ -8,6 +8,9 @@
   <a href="mailto:ht0257445@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/Himanshu_kumar1/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+</a>
 </p>
 
 ---
